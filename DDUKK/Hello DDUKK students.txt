@@ -1,3 +1,7 @@
 Hello DDUKK students,
 
 Hope all you are doing good.
+
+Hello Kailas,
+
+This is a program for the students to get handson on git
